@@ -20,7 +20,7 @@ public class MainActivity extends ActionBarActivity {
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 // Perform action on click
-            	Toast.makeText(getApplicationContext(), "Hallo", Toast.LENGTH_SHORT).show();
+            	Toast.makeText(getApplicationContext(), "Hallo Fucker, was geht?", Toast.LENGTH_SHORT).show();
             }
         });
     }
